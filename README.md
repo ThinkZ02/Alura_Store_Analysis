@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido durante os estudos do Programa ONE - Oracle Next Education, com foco em Python para Data Science.
 
 ## Propósito
-O objetivo é ajudar o Senhor João a decidir qual loja vender, analisando:
+O objetivo é contribuir na tomada de decisão de qual loja vender, analisando:
 - Faturamento total
 - Produtos mais e menos vendidos
 - Avaliação média dos clientes
